@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dsqtbfarhge.github.io/sitemap.xml
